@@ -1,0 +1,8 @@
+defaultSeverity: error
+extends:
+  - tslint:recommended
+jsRules: {}
+rules:
+  prefer-const: false
+  no-console: false
+rulesDirectory: []
